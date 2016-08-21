@@ -4,12 +4,12 @@
 	'HTML':'80%',
 	'CSS':'82%',
 	'JavaScript':'60%',
-	'JQuery':'23%',
+	'JQuery':'60%',
 	'PhotoShop':'30%',
-	'智力值':'72%',
-	'武力值':'60%',
-	'耐力值':'71%',
-	'潜力值':'90%'		
+	'D3.js':'50%',
+	'AngularJs':'30%',
+	'Axure':'71%',
+	'php':'25%'
 	};
 
 	function addSkillValue() {
